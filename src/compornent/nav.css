@@ -323,3 +323,67 @@
     background-color: #D62929;
   }
   
+
+
+
+
+
+
+
+
+
+  .dashboard {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .dashboard-header {
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .dashboard-header p {
+    color: #888;
+    font-size: 14px;
+  }
+  
+  .dashboard-cards {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .dashboard-card {
+    flex: 1;
+    min-width: 200px;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-content h2 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  .card-content p {
+    margin: 5px 0 15px;
+    font-size: 16px;
+  }
+  
+  .card-footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .card-footer a:hover {
+    text-decoration: underline;
+  }
+  
