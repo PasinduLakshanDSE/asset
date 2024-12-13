@@ -46,7 +46,7 @@ const NavBar = () => {
             <img src="https://gravatar.com/avatar/4474ca42d303761c2901fa819c4f2547" alt="Avatar" />
           </div>
           <div id="nav-footer-titlebox">
-            <a id="nav-footer-title" href="https://codepen.io/uahnbu/pens/public" target="_blank" rel="noopener noreferrer">
+            <a id="nav-footer-title" href="https://www.vellaglobal.com/" target="_blank" rel="noopener noreferrer">
               Admin
             </a>
             <span id="nav-footer-subtitle">Admin</span>
